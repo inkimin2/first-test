@@ -22,6 +22,7 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!
       idist_r=nint(dist_r)
       
+!     
       if(iors.eq.1) then
                  !�̾ 1
             write(ors,'(a,i4.4,a)')trim('iors_'),idist_r,trim('km')
